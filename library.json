@@ -1,0 +1,20 @@
+{
+  "name": "NTPCentral",
+  "keywords": "ntp, client, time",
+  "description": "A NTP Client to connect to a time server",
+  "authors":
+  [
+    {
+      "name": "Said Dinari",
+      "email": "dinarigem@yahoo.fr"
+    }   
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sdinari/NTPCentral"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
